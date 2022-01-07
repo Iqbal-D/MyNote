@@ -1,0 +1,6 @@
+catatan tambahan :
+    pada awal commit masih terdapat banyak potongan-potongan Toast dan Log, ini saya gunakan untuk sebagai sarana pengecekan data dalam berjalannya aplikasi (untuk mempermudah proses debuging)
+    mohon maaf jika Toast dan Log tersebut menggangu
+    
+    Lalu dalam proses run aplikasi, saya menggunakan Android 11 sehingg dalam "allow permmision" pada pengaturan aplikasi melalui setting harus diberikan ijin "Allow Management of All Files"
+    agar proses export dapat berjalan lancar
